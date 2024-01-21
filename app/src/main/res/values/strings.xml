@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">SuperChat</string>
+    <string name="we_will_send_you_the_6_digits_verification_code">We Will Send You The 6 Digits Verification Code</string>
+    <string name="let_s_get_start">Let\'s Get Start</string>
+    <string name="otp_verification">OTP VERIFICATION</string>
+    <string name="_91">+91</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="create_your_superchat_profile">Create Your SuperChat Profile</string>
+    <string name="add_picture">Add Picture</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_gmail">Enter your Gmail</string>
+    <string name="optional">(optional)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="bio">I am a passionate and innovative Android app developer with a knack for creating engaging and user-friendly mobile applications. With a strong foundation in computer science and a deep enthusiasm for technology, Vinay has honed his skills to craft seamless and intuitive user experiences. </string>
+
+
+    <string name="privacy_policy_text">
+
+   "     This Privacy Policy outlines the manner in which SuperChat we collects, uses, maintains, and discloses information collected from users  SuperChat Android application App. This Privacy Policy applies to the App and all products and services offered by SuperChat.
+
+1. Information Collection and Use
+
+We may collect personal and non-personal information from users in the following ways:
+
+a. Personal Information:
+
+User Provided Information: The App may require you to provide certain personally identifiable information, such as your name, email address, profile picture, and contact details. This information is collected when you register an account, update your profile, or engage in activities within the App.
+
+Chat Content: Conversations and interactions conducted through the App chat feature will be stored on our servers to facilitate communication and enhance your experience using the App.
+
+b. Non-Personal Information:
+
+Device Information: We may collect non-personal information about your device, including its model, operating system version, and unique device identifiers. This information helps us understand device compatibility and improve our services.
+
+Usage Data: We collect information about how you use the App, such as the features you access, the duration of your sessions, and your interaction patterns. This data helps us enhance user experience and optimize our services.
+
+2. Information Sharing and Disclosure
+
+We may share your information in the following situations:
+
+Service Providers: We may share your information with third-party service providers who assist us in operating the App, analyzing usage patterns, and delivering services to you. These providers are contractually bound to protect your information and use it only for the intended purposes.
+
+Legal Compliance: We may disclose your information if required by law or in response to valid legal processes, such as court orders or government requests.
+
+3. Data Security
+
+We prioritize the security of your information and implement appropriate measures to safeguard it against unauthorized access, alteration, disclosure, or destruction. However, no data transmission over the internet or electronic storage method can be guaranteed to be 100% secure.
+
+4. Your Choices
+
+Opt-Out: You have the option to decline providing certain personal information; however, this might limit your ability to use certain features of the App.
+
+Account Information: You can review, update, or delete your account information at any time through the App's settings.
+
+5. Children's Privacy
+
+The App is not intended for use by individuals under the age of 18. We do not knowingly collect personal information from children under this age. If you believe we have unintentionally collected information from a child, please contact us to have it removed.
+
+6. Changes to this Privacy Policy
+
+We reserve the right to update this Privacy Policy at any time. We will notify users of any changes through the App or other appropriate means. It is advisable to review this policy periodically for any modifications.
+
+7. Contact Us
+
+If you have any questions, concerns, or requests related to this Privacy Policy, please contact us at royalpremsharma@gmail.com.
+
+By using the App, you signify your acceptance of this Privacy Policy. If you do not agree with this policy, please refrain from using the App.
+
+Last updated: 15/08/2023"
+
+
+</string>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".chatGpt">
+
+    <ImageView
+        android:id="@+id/backArrow"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        app:tint="@color/black"
+        android:src="@drawable/backarrow" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/chatGptRecyclerView"
+        android:layout_below="@id/backArrow"
+        android:layout_above="@id/bottom_layout"
+
+        >
+    </androidx.recyclerview.widget.RecyclerView>
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/welcome_text"
+        android:layout_centerInParent="true"
+        android:text="Welcome to SuperChatGpt \n Try it out now ."
+        android:gravity="center"
+        android:textSize="25sp"
+
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:id="@+id/bottom_layout"
+        android:layout_marginTop="2dp"
+        android:padding="8dp"
+        android:layout_alignParentBottom="true">
+
+        <EditText
+            android:id="@+id/message_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@color/black"
+            android:layout_toLeftOf="@id/sendMessageBtnChatGpt"
+            android:background="@drawable/round_chatgpt_et"
+
+            android:hint="Write here.."
+            android:padding="16dp" />
+        <ImageView
+            android:id="@+id/sendMessageBtnChatGpt"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="3dp"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/sendmessage"  />
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

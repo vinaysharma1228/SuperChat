@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "541691504389",
+    "firebase_url": "https://superchat-royal1228-default-rtdb.firebaseio.com",
+    "project_id": "superchat-royal1228",
+    "storage_bucket": "superchat-royal1228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541691504389:android:dbf57664be95af938a796c",
+        "android_client_info": {
+          "package_name": "com.rbhagat.superchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541691504389-2lbghnium8cbil5p3agvn32k8vsfj8jc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rbhagat.superchat",
+            "certificate_hash": "3f14c4d9220fea8f856c35379c38ba097d987902"
+          }
+        },
+        {
+          "client_id": "541691504389-orgh90daoskgk7h8p2aeo68f27unscmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkuyQzcyxS1qrawO8zNwcAMPDAFG28-yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541691504389-orgh90daoskgk7h8p2aeo68f27unscmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
